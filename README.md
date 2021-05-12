@@ -1,2 +1,4 @@
 # grantmichael.github.io
-Personal Site
+Updating coming soon 
+
+Planned release date May 30, 2021
